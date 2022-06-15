@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, requirements, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +32,7 @@ There are no prerequisites for this course.
 Textbooks
 ---------
 
-There are no required textbooks for the course. The [readings]({{< baseurl >}}/pages/readings) will consist of excerpts and papers.
+There are no required textbooks for the course. The {{% resource_link b590af0b-91e5-3bba-2925-7273a543c415 "readings" %}} will consist of excerpts and papers.
 
 Requirements
 ------------
