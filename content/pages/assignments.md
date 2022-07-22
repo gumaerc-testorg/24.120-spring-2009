@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides information on the assignments of the course:
+  3 papers and a text presentation.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: f05af2bf-d570-469f-08cb-4e23f9cf94a9
 ---
@@ -26,7 +31,7 @@ DESCRIPTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Paper 1 ([PDF]({{< baseurl >}}/resources/mit24_120s09_assn01))
+Paper 1 ({{% resource_link 208da57c-2c8b-49da-9bb9-73b2b26ea1a2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -51,7 +56,7 @@ Answer all three questions. You can distribute the pages as you like, but a good
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Paper 2 ([PDF]({{< baseurl >}}/resources/mit24_120s09_assn02))
+Paper 2 ({{% resource_link 2d7d4321-14eb-b003-c7ab-36edbf8b3d86 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -80,7 +85,7 @@ Gary Watson argues that the addict is "more like a collaborationist than an unsu
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Paper 3 ([PDF]({{< baseurl >}}/resources/mit24_120s09_assn03))
+Paper 3 ({{% resource_link 314ca4a7-a9bd-6a56-239c-7e7bd339b132 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -111,4 +116,4 @@ Answer one question.
 {{< anchor "Text_Presentations" >}}{{< /anchor >}}Text Presentations
 --------------------------------------------------------------------
 
-At least once during the semester students must do a close analysis of a selected passage in one of the assigned readings. The exercise will have three parts: a small group discussion with other students in the class, a 15-minute class presentation, and a 15-minute discussion. Assigned passages will be distributed around a week in advance. Details about the presentation and discussion leading can be found here: ([PDF]({{< baseurl >}}/resources/mit24_120s09_assn04))
+At least once during the semester students must do a close analysis of a selected passage in one of the assigned readings. The exercise will have three parts: a small group discussion with other students in the class, a 15-minute class presentation, and a 15-minute discussion. Assigned passages will be distributed around a week in advance. Details about the presentation and discussion leading can be found here: ({{% resource_link 25ff668f-12db-7dc2-0d20-6d07eb0e1166 "PDF" %}})
