@@ -40,10 +40,10 @@
   "learning_resource_types": [
     "Lecture Notes",
     "Presentation Assignments",
-    "Written Assignments",
-    "Course Introduction"
+    "Written Assignments"
   ],
   "site_uid": "df6a4e27-933d-4642-b97f-f850f85025a4",
   "site_short_id": "24.120-spring-2009",
+  "site_url_path": "courses/24-120-moral-psychology-spring-2009",
   "title": "Course Metadata"
 }
